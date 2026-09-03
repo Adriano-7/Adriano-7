@@ -14,4 +14,4 @@ Alongside my studies, I helped redesign [UNI](https://github.com/NIAEFEUP/uni), 
  
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adriano-7&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adriano-7&theme=dark&mode=weekly)](https://git.io/streak-stats)
