@@ -8,9 +8,9 @@ Alongside my studies, I helped redesign [UNI](https://github.com/NIAEFEUP/uni), 
  
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Politeness Classification**](https://github.com/Adriano-7/fcup-natural-language-processing) | Four-way politeness classifier on Intel's Polite Guard dataset, SVM + Word2Vec baselines, RoBERTa fine-tuning, LoRA, and LLM prompting. | PyTorch, Transformers, PEFT |
-| [**Deepfake Detection & Generation**](https://github.com/Adriano-7/fcup-deep-reinforcement-learning) | Trained CNNs and ViTs for detecting AI-generated faces and GANs and diffusion models to generate them. | PyTorch, Diffusers |
-| [**Chessboard Digital Twin**](https://github.com/Adriano-7/fcup-computer-vision) | Turns a photo of a chessboard into a FEN string, comparing a classical OpenCV pipeline against YOLOv8 + U-Net. | OpenCV, Ultralytics, PyTorch |
+| [**Politeness Classification**](https://www.adrianomachado.pt/work/politeness-nlp) | Four-way politeness classifier on Intel's Polite Guard dataset, SVM + Word2Vec baselines, RoBERTa fine-tuning, LoRA, and LLM prompting. | PyTorch, Transformers, PEFT |
+| [**Deepfake Detection & Generation**](https://www.adrianomachado.pt/work/deepfake) | Trained CNNs and ViTs for detecting AI-generated faces and GANs and diffusion models to generate them. | PyTorch, Diffusers |
+| [**Chessboard Digital Twin**](https://www.adrianomachado.pt/work/chess-digital-twin) | Turns a photo of a chessboard into a FEN string, comparing a classical OpenCV pipeline against YOLOv8 + U-Net. | OpenCV, Ultralytics, PyTorch |
  
 ---
 
