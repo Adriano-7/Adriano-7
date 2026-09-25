@@ -4,6 +4,8 @@ I recently finished my M.Sc. in Artificial Intelligence at the University of Por
 
 Alongside my studies, I helped redesign [UNI](https://github.com/NIAEFEUP/uni), the app UPorto students use every day, and led the IT department at [ESN Porto](https://esnporto.org).
 
+Checkout my portfolio [here](https://www.adrianomachado.pt)!
+
 ## Some of my ML Projects
  
 | Project | What it is | Stack |
